@@ -1,2 +1,4 @@
-# hello-world
-Mein erstes Repository auf GitHub
+Helloworld.
+I love Pizza and Pasta.
+My name is Merjem.
+Ma bestie is Eleni.
